@@ -1,0 +1,8 @@
+F,Pedro,Ramirez,Chiclana 55,pedro@gmail.com,1988-09-09,2024-09-06,20300400
+F,Jose,Lopez,Brown 245,jose@yahoo.com,1979-05-05,2024-09-06,30400500
+F,Jorge,Villalba,Beruti 1325,jorge@gmail.com,1991-01-27,2024-09-06,40555666
+J,Maria,Savicci,Saavedra 12,maria@hotmail.com,1975-07-07,2024-09-06,50666777
+J,Pepe,Mujica,uruguay 315,elpepe@hotmail.com,1998-06-06,2024-09-06,60777888
+F,Eric,Ponin,RAWSON 4636,eric.ponin@gmail.com,1986-07-19,2024-09-06,32586510
+F,Roberto,Gomez Bolañoz,Tambor 8,elchavo@hotmail.com,1888-08-08,2024-09-06,88888888
+F,Andres,Calamaro,Chiclana 20,andres@gmail.com,1988-09-09,2024-09-06,10200200
